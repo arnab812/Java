@@ -1,0 +1,10 @@
+Resources and references : 
+  Dynamic Memory Allocation and Fragmentation in C and C++ : https://www.design-reuse.com/articles/25090/dynamic-memory-allocation-fragmentation-c.html#:~:text=In%20C%2C%20dynamic%20memory%20is,requested%20memory%20area%20in%20bytes.
+ 
+  Segmentation fault : https://www.geeksforgeeks.org/core-dump-segmentation-fault-c-cpp/
+  Abstraction in C : https://www.edn.com/5-simple-steps-to-create-an-abstract-data-type-in-c/#:~:text=Abstract%20data%20types%20(often%20written,C%20using%20five%20simple%20steps.     
+    Procedural Abstraction : https://eecs280staff.github.io/notes/02_ProceduralAbstraction_Testing.html#procedural-abstraction
+  An Array is a pointer : http://www.cs.ecu.edu/karl/3300/spr16/Notes/C/Array/pointer.html#:~:text=An%20array%20is%20a%20pointer&text=An%20array%20is%20considered%20to,That%20rule%20has%20several%20consequences.
+  
+  
+ 
